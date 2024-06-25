@@ -1,8 +1,7 @@
 ![IQRG Banner for Research Projects](../IQRG_Banner_Research_Projects_2024.png)
 
-# [SPOTIFY MUSIC RECOMMENDATION SYSTEM USING QUANTUM MACHINE LEARNING]
+# SPOTIFY MUSIC RECOMMENDATION SYSTEM USING QUANTUM MACHINE LEARNING
 
-TOPIC: SPOTIFY MUSIC RECOMMENDATION SYSTEM USING QUANTUM MACHINE LEARNING
 
 Research Student: Roshani Vijayan
 Mentor : Dr. Gerhard Hellstern, Professor, Duale Hochschule Baden-Württemberg, Germany
